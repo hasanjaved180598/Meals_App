@@ -6,7 +6,7 @@ A beautiful meal browsing app built with Flutter. Explore meal categories, view 
 
 ## 🎬 Demo
 
-https://github.com/hasanjaved180598/meals_app/blob/main/assets/demo.mp4
+https://github.com/user-attachments/assets/deeb9c0c-7853-4aa4-9ca8-85d223791e34
 
 ---
 
